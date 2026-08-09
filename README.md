@@ -12,7 +12,7 @@ Urbanisation is the continuous conversion of natural and rural landscapes into b
 Bhopal faces unique ecological challenges due to its sensitive natural features, such as expansive lakes and vital green zones[cite: 1]. By leveraging Geographic Information Systems (GIS) and remote sensing, this repository tracks land transformation over time to support sustainable urban planning and efficient land management[cite: 1].
 
 ---
-p1.png
+![App Dashboard](p1.png)
 
 ## ✨ Key Features
 
